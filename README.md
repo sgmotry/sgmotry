@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![sgmotry's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgmotry)](https://github.com/sgmotry/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=sgmotry)
